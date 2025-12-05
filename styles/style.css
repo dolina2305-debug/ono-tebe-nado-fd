@@ -177,10 +177,12 @@
 .lots__card-list-item {
   width: 334px;
   min-height: 596px;
+  
 }
 
 .card__link {
   height: 100%;
+  text-decoration: none;
 }
 
 .card {
